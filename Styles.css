@@ -155,7 +155,8 @@ aside{
     font-weight: 600;
 }
 
-span{
+.span{
+    display: inline;
     font-weight: 800;
     color: hsl(224, 30%, 27%);
 }

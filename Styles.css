@@ -65,8 +65,12 @@ h1{
     height: 30px;
 }
 
-h4,p{
+h4, p, #result{
     color: hsl(241, 100%, 89%);
+}
+
+#result{
+    font-size: 18px;
 }
 
 h1,h2{

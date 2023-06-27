@@ -69,7 +69,7 @@ h4,p{
     color: hsl(241, 100%, 89%);
 }
 
-h1,h3{
+h1,h2{
     color: white;
 }
 
@@ -140,7 +140,7 @@ h1,h3{
     font-weight: 600;
 }
 
-h2{
+h3{
     color: hsl(224, 30%, 27%);
     font-size: 20px;
     margin-bottom: 20px;
